@@ -1,1 +1,1 @@
-cppcheck --xml JenkinsTest 2> cppcheck_result.xml
+cppcheck --xml --enable=all --error-exitcode=0 JenkinsTest 2> cppcheck_result.xml

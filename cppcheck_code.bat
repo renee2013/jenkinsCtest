@@ -1,0 +1,1 @@
+cppcheck --xml JenkinsTest 2> cppcheck_result.xml
